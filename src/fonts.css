@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'regular';
+    src: url('./fonts/FiraCode-Regular.ttf');
+    
+}
+@font-face {
+    font-family: 'bold';
+    src: url('./fonts/FiraCode-Bold.ttf');
+    
+}
+@font-face {
+    font-family: 'semi';
+    src: url('./fonts/FiraCode-SemiBold.ttf');
+    
+}

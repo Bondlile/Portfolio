@@ -1,0 +1,8 @@
+.dark{
+    background:#1d1d1d;
+    color:#fff;
+  }
+  .light{
+    background:rgb(255, 255, 255);
+    color:#1d1d1d;
+  }
